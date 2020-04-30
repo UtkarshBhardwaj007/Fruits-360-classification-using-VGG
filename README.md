@@ -7,3 +7,7 @@ I highly recommend you to view the .ipynb file (jupyter notebook). But for hardc
 There are a lot of comments within the code so you shouldn't have any problem understanding what's going on.
 
 I did the project on google colabotary and thus in the first few steps I have shown how to easily download any kaggle dataset into google colab.
+
+I have uploaded my saved model (a .h5 file). You can easily load this model by following these steps - 
+from keras.models import load_model
+model = load_model('path to the .h5 flie')
