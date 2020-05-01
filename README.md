@@ -11,3 +11,5 @@ I did the project on google colabotary and thus in the first few steps I have sh
 I have uploaded my saved model (a .h5 file). You can easily load this model by following these steps - 
 from keras.models import load_model
 model = load_model('path to the .h5 flie')
+
+Link to dataset - https://www.kaggle.com/moltean/fruits
